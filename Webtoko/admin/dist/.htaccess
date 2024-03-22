@@ -1,0 +1,5 @@
+<Files "login.php">
+    Order Deny,Allow
+    Deny from all
+    Allow from 192.168.92.131
+</Files>
